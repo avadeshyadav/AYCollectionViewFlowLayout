@@ -14,6 +14,8 @@
 		CB466DE11C0036390071742D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB466DE01C0036390071742D /* Assets.xcassets */; };
 		CB466DE41C0036390071742D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB466DE21C0036390071742D /* LaunchScreen.storyboard */; };
 		CB466DEE1C0036830071742D /* AYCollectionViewFlowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = CB466DED1C0036830071742D /* AYCollectionViewFlowLayout.m */; settings = {ASSET_TAGS = (); }; };
+		CBF916601C043F4F005311BB /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = CBF9165E1C043F4F005311BB /* LICENSE */; settings = {ASSET_TAGS = (); }; };
+		CBF916611C043F4F005311BB /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = CBF9165F1C043F4F005311BB /* README.md */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +31,8 @@
 		CB466DE51C0036390071742D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CB466DEC1C0036830071742D /* AYCollectionViewFlowLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AYCollectionViewFlowLayout.h; sourceTree = "<group>"; };
 		CB466DED1C0036830071742D /* AYCollectionViewFlowLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AYCollectionViewFlowLayout.m; sourceTree = "<group>"; };
+		CBF9165E1C043F4F005311BB /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = SOURCE_ROOT; };
+		CBF9165F1C043F4F005311BB /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 		CB466DD31C0036390071742D /* AYCollectionViewFlowLayoutDemo */ = {
 			isa = PBXGroup;
 			children = (
+				CBF9165E1C043F4F005311BB /* LICENSE */,
+				CBF9165F1C043F4F005311BB /* README.md */,
 				CB466DEB1C0036710071742D /* AYCollectionViewFlowLayout */,
 				CB466DD71C0036390071742D /* AppDelegate.h */,
 				CB466DD81C0036390071742D /* AppDelegate.m */,
@@ -151,6 +157,7 @@
 			files = (
 				CB466DE41C0036390071742D /* LaunchScreen.storyboard in Resources */,
 				CB466DE11C0036390071742D /* Assets.xcassets in Resources */,
+				CBF916601C043F4F005311BB /* LICENSE in Resources */,
 				CB466DDF1C0036390071742D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -164,6 +171,7 @@
 			files = (
 				CB466DDC1C0036390071742D /* ViewController.m in Sources */,
 				CB466DEE1C0036830071742D /* AYCollectionViewFlowLayout.m in Sources */,
+				CBF916611C043F4F005311BB /* README.md in Sources */,
 				CB466DD91C0036390071742D /* AppDelegate.m in Sources */,
 				CB466DD61C0036390071742D /* main.m in Sources */,
 			);
@@ -312,6 +320,7 @@
 				CB466DEA1C0036390071742D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
