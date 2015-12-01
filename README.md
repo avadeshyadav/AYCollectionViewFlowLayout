@@ -7,6 +7,8 @@ This is a custom flow layout to demonstrate compression effect when collectionvi
       i). Via Interface builder:
         
       Open Storyboard/xib file, select your CollectionView, and under collection view select CollectionViewFlowLayout.
+
+
     
 Now go to Identity Inspector tab on the right pane, Under Custom Class section, set value for the class field to AYCollectionViewFlowLayout.
 

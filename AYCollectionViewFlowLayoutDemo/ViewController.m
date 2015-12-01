@@ -41,10 +41,10 @@
 
 - (CGSize)collectionView:(UICollectionView *)collectionView layout:(UICollectionViewLayout*)collectionViewLayout sizeForItemAtIndexPath:(NSIndexPath *)indexPath
 {
-    CGFloat height = 150.0;
+    CGFloat height = 80.0;
     
     if (indexPath.item %2 == 0) {
-        height = 200.0;
+        height = 130.0;
     }
     
     return CGSizeMake(collectionView.frame.size.width - 20, height);
