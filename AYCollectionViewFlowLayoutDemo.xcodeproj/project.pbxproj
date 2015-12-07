@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CB2564D91C1585A800560457 /* Sample.gif in Resources */ = {isa = PBXBuildFile; fileRef = CB2564D81C1585A800560457 /* Sample.gif */; settings = {ASSET_TAGS = (); }; };
 		CB466DD61C0036390071742D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CB466DD51C0036390071742D /* main.m */; };
 		CB466DD91C0036390071742D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CB466DD81C0036390071742D /* AppDelegate.m */; };
 		CB466DDC1C0036390071742D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CB466DDB1C0036390071742D /* ViewController.m */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CB2564D81C1585A800560457 /* Sample.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Sample.gif; sourceTree = "<group>"; };
 		CB466DD11C0036390071742D /* AYCollectionViewFlowLayoutDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AYCollectionViewFlowLayoutDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB466DD51C0036390071742D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		CB466DD71C0036390071742D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 		CB466DD31C0036390071742D /* AYCollectionViewFlowLayoutDemo */ = {
 			isa = PBXGroup;
 			children = (
+				CB2564D81C1585A800560457 /* Sample.gif */,
 				CBF9165E1C043F4F005311BB /* LICENSE */,
 				CBF9165F1C043F4F005311BB /* README.md */,
 				CB466DEB1C0036710071742D /* AYCollectionViewFlowLayout */,
@@ -158,6 +161,7 @@
 				CB466DE41C0036390071742D /* LaunchScreen.storyboard in Resources */,
 				CB466DE11C0036390071742D /* Assets.xcassets in Resources */,
 				CBF916601C043F4F005311BB /* LICENSE in Resources */,
+				CB2564D91C1585A800560457 /* Sample.gif in Resources */,
 				CB466DDF1C0036390071742D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
