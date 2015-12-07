@@ -1,6 +1,8 @@
 # AYCollectionViewFlowLayout
 This is a custom flow layout to demonstrate compression effect when collectionview is overscrolled.
 
+![giphy](https://github.com/avadeshyadav/AYCollectionViewFlowLayout/blob/master/AYCollectionViewFlowLayoutDemo/Sample.gif)
+
 1. To integrate it in your project, just add AYCollectionViewFlowLayout folder from this project to your project.
 
 2. Now either integrate it via Interface builder or via code.
